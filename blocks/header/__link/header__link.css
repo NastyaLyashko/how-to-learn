@@ -1,0 +1,11 @@
+.header__link {
+  z-index: 2;
+  text-decoration: none;
+  color: #2f80ed;
+  opacity: 100%;
+  transition: opacity 1s linear;
+}
+
+.header__link:hover {
+  opacity: 60%;
+}
